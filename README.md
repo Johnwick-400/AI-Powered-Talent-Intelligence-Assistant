@@ -62,7 +62,7 @@ The AI Assistant is an advanced, AI-powered platform designed to streamline and 
 | Skill Suggestions| Review and edit AI skill suggestions | Suggestions with rationale shown, editable          |
 | Market Analysis  | Request market insights           | Displays market data, trends, and compensation stats|
 | Role Mapping     | Review suggested alternative roles | Provides match scores and recommendations            |
-| JD Finalization  | Review and edit compiled JD       | Editable summary with download options (DOCX/JSON)  |
+| JD Finalization  | Review and edit compiled JD       | Editable summary with download options (PDF/DOCX/JSON)  |
 
 ## Technologies Used
 
